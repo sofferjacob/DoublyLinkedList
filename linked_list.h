@@ -11,7 +11,6 @@ Modified: 19/04/21
 #include <functional>
 #include <stdexcept>
 #include <iostream>
-#include <set>
 #include "node.h"
 
 template<class T>
